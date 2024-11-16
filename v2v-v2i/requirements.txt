@@ -1,0 +1,9 @@
+Flask
+numpy
+scikit-learn
+tensorflow
+pytorch
+huggingface
+grpcio
+gnuradio
+matplotlib
